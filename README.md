@@ -1,2 +1,2 @@
 # RomanToInteger
-Romen rakamlarını tam sayıya çeviren program.
+Romen rakamlarını tam sayıya çeviren C# konsol uygulaması.
